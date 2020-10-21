@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clones", "Clones\Clones.csproj", "{7A1C49BA-A936-44CB-B6C9-A28953D325FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prac", "prac\prac.csproj", "{6D870E90-320A-4E4D-946C-A0C4F796F397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1C49BA-A936-44CB-B6C9-A28953D325FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A1C49BA-A936-44CB-B6C9-A28953D325FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A1C49BA-A936-44CB-B6C9-A28953D325FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A1C49BA-A936-44CB-B6C9-A28953D325FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D870E90-320A-4E4D-946C-A0C4F796F397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D870E90-320A-4E4D-946C-A0C4F796F397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D870E90-320A-4E4D-946C-A0C4F796F397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D870E90-320A-4E4D-946C-A0C4F796F397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F8ADFD-9894-4DB6-8F86-0D19A0B5A108}
+	EndGlobalSection
+EndGlobal
